@@ -1,4 +1,4 @@
-# EPS — Employee Payroll System (CLG DBMS PROJECT)
+# EPS — Employee Payroll System
 
 ## Project summary
 
